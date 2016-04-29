@@ -108,12 +108,12 @@ h2 {
     text-align: center;
     /*font-size: 20px;*/
     /*float: none;*/
-    bottom: 300px;
+    bottom: -100px;
     font-weight: bold;
     width: 35px;
-    padding: 200px;
+    /*padding: 200px;
     border: 0;
-    box-shadow: 0;
+    box-shadow: 0;*/
     display: inline;
 
 /*footer {
