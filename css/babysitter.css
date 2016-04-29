@@ -100,6 +100,7 @@ h2 {
   width: 840px;
   text-align: justify;
   font-size: 20px;
+  font-weight: bold;
 
 }
 footer {
@@ -115,6 +116,9 @@ footer {
  nav{
    font-size: 18px;
  }
+ footer{
+   position: relative;
+ }
 }
 
 @media screen and (max-width:980px) and (min-width: 768px){
@@ -128,6 +132,9 @@ footer {
   top:.25em;
   right:.5em;
  }
+ footer{
+   position: relative;
+ }
 }
 @media screen and (max-width: 768px) {
 	#page-header nav li{
@@ -138,6 +145,9 @@ footer {
 	 position: relative;
 	 top:.25em;
 	 right:.5em;
+ }
+ footer{
+   position: relative;
  }
 
 }
