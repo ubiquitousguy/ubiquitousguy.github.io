@@ -189,7 +189,15 @@ h2 {
 @media screen and (max-width:1080px) and (min-width: 980px){
     .logo nav li{
    float: none;
+   position: relative;
+
  }
+    .Contents{
+      position: relative;
+      display: block;
+      top:.25em;
+   	  right:.5em;
+    }
 	nav{
 
 		font-size: 18px;
