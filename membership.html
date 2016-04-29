@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Membership</title>
+    <link rel="stylesheet" href="css/membership.css">
+    <script src="hamburgler/hamburgler.js"> </script>
+    <link rel="stylesheet" href="hamburgler/hamburgler.css">
+  </head>
+  <body>
+    <header>
+
+    <div class="container">
+
+        <nav>
+          <ul>
+            <li><a href="homeindex.html">home</a></li>
+            <li><a href="aboutus.html">about us</a></li>
+            <li><a href="babysitter.html">babysitter bios</a></li>
+            <li><a href="membership.html">membership</a></li>
+            <li><a href="#">contact</a></li>
+          </ul>
+        </nav>
+
+      </div>
+
+  </header>
+
+        <div class="logo"><img height="100"width="400" src="images/logo_POMS.jpeg" alt="POMS"/></div>
+        <h1>Register Now!</h1>
+          <form action="http://jsonplaceholder.typicode.com/posts" method="post">
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="name" placeholder="Enter your name">
+              <br>
+              <label for="email">Email:</label>
+              <input type="text" id="email" name="email" placeholder="Enter your email">
+              <br>
+              <label for="phone">Phone:</label>
+              <input type="number" id="phone" value="">
+              <br>
+              <label for="state">State:</label>
+              <select name="state">
+                <option value="al">Alabama</option>
+                <option value="samo">Santa Monica</option>
+                <option value="pasa">Pasadena</option>
+                <option value="glen">Glendale</option>
+              </select>
+              <br>
+              <label for="password">Password:</label>
+              <input type="password" name="password" value="">
+            <br>
+              <input type="checkbox" name="remember_me" value="">
+              <input type="radio" value="1" name="choose_option" >
+              <input type="radio" value="2" name="choose_option" >
+              <input type="radio" value="3" name="choose_option" >
+
+
+          </form>
+  </body>
+</html>
