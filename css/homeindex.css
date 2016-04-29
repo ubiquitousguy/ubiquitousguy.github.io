@@ -76,3 +76,27 @@ a:hover {
   text-decoration: underline;
   background-color: #cccc00;
 }
+
+@media screen and (max-width:1080px) and (min-width: 980px){
+  footer{
+    position: relative;
+  }
+}
+
+@media screen and (max-width:980px) and (min-width: 768px){
+  footer{
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 768px){
+  footer{
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 480px){
+  footer{
+    position: relative;
+  }
+}

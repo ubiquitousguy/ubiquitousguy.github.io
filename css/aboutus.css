@@ -198,6 +198,9 @@ h2 {
       top:.25em;
    	  right:.5em;
     }
+    footer{
+      position: relative;
+    }
 	nav{
 
 		font-size: 18px;
@@ -216,6 +219,10 @@ h2 {
 	 right:.5em;
  }
 
+ footer{
+   position: relative;
+ }
+
 
 }
 
@@ -229,7 +236,9 @@ h2 {
 	 top:.25em;
 	 right:.5em;
  }
-
+ footer{
+   position: relative;
+ }
 	/*.Contents {
 		width: 85%;
 		box-shadow: none;
@@ -245,6 +254,9 @@ h2 {
 	 position: relative;
 	 top:.25em;
 	 right:.5em;
+ }
+ footer{
+   position: relative;
  }
  /*.Contents{
 	 height:0;
