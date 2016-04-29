@@ -103,14 +103,27 @@ h2 {
   font-weight: bold;
 
 }
-footer {
+
+.icons {
+    text-align: center;
+    /*font-size: 20px;*/
+    /*float: none;*/
+    bottom: 300px;
+    font-weight: bold;
+    width: 35px;
+    padding: 200px;
+    border: 0;
+    box-shadow: 0;
+    display: inline;
+
+/*footer {
     text-align: center;
     font-size: 20px;
     position: relative;
     bottom: -100px;
     font-weight: bold;
 
-   }
+   }*/
 
 @media screen and (max-width:1080px) and (min-width: 980px){
  nav{
