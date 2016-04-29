@@ -187,7 +187,7 @@ h2 {
    }
 
 @media screen and (max-width:1080px) and (min-width: 980px){
-    #page-header nav li{
+    .logo nav li{
    float: none;
  }
 	nav{
