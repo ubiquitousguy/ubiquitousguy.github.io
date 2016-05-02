@@ -179,10 +179,10 @@ h2 {
     position:relative;
     bottom: 300px;
     font-weight: bold;
-    /*width: 35px;
+    width: 35px;
+    padding: 200px;
     border: 0;
-    box-shadow: 0;*/
-    
+    box-shadow: 0;
     display: inline;
 
    }
