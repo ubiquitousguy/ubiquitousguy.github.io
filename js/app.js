@@ -8,15 +8,3 @@
       slideWidth: 450
     });
   });
-
-
-
-  // $(function(){
-  //       $("#slides").slidesjs({
-  //         width: 700,
-  //         height: 393
-  //
-  //       });
-  //     });
-
-// });
