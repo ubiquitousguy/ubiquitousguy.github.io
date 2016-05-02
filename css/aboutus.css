@@ -176,14 +176,15 @@ h2 {
 
 .icons {
     text-align: center;
+    position:relative;
     /*font-size: 20px;*/
     /*float: none;*/
-    bottom: 300px;
+    bottom: 100px;
     font-weight: bold;
-    width: 35px;
+    /*width: 35px;*/
     padding: 50px;
-    border: 0;
-    box-shadow: 0;
+    /*border: 0;
+    box-shadow: 0;*/
     /*display: inline;*/
 
    }
