@@ -110,7 +110,7 @@ h2 {
     bottom: 10px;
     font-weight: bold;
     width: 100%;
-    padding: 50px;
+    padding: 200px;
     border: 0;
     box-shadow: 0;*/
     display: inline;
@@ -137,10 +137,10 @@ h2 {
   top:.25em;
   right:.5em;
  }
- /*footer{
+ footer{
    position: relative;
    text-align: center;
- }*/
+ }
 }
 @media screen and (max-width: 768px) {
 	#page-header nav li{
@@ -152,10 +152,10 @@ h2 {
 	 top:.25em;
 	 right:.5em;
  }
- /*footer{
+ footer{
    position: relative;
    text-align: center;
- }*/
+ }
 
 }
   @media screen and (max-width: 480px) {
