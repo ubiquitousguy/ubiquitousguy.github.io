@@ -137,10 +137,7 @@ h2 {
   top:.25em;
   right:.5em;
  }
- footer{
-   position: relative;
-   text-align: center;
- }
+
 }
 @media screen and (max-width: 768px) {
 	#page-header nav li{
@@ -152,10 +149,7 @@ h2 {
 	 top:.25em;
 	 right:.5em;
  }
- footer{
-   position: relative;
-   text-align: center;
- }
+
 
 }
   @media screen and (max-width: 480px) {
