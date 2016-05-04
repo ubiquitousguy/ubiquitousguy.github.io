@@ -76,8 +76,9 @@ header nav ul li a {
   text-align: center;
 }
 
-header .section {
-  text-align: center;
+.section {
+  /*text-align: center;*/
+  float: left;
   width 400px;
   height: 400px;
 }
@@ -110,7 +111,7 @@ h2 {
     bottom: 10px;
     font-weight: bold;
     width: 100%;
-    padding: 200px;
+    /*padding: 200px;*/
     border: 0;
     box-shadow: 0;*/
     display: inline;
