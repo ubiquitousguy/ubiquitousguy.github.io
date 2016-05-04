@@ -96,7 +96,7 @@ h2 {
   font-family: comic sans ms;
   float: right;
   position: relative;
-  top: -10px;
+  bottom: 300px;
   width: 840px;
   text-align: justify;
   font-size: 20px;
@@ -118,13 +118,12 @@ h2 {
 
 
 @media screen and (max-width:1080px) and (min-width: 980px){
- /*nav{
-   font-size: 18px;
- }*/
- /*footer{
-   position: relative;
-   text-align: center;
- }*/
+  .kasey{
+    position: relative;
+    display: block;
+    top: .25em;
+    right: .5em;
+  }
 }
 
 @media screen and (max-width:980px) and (min-width: 768px){
