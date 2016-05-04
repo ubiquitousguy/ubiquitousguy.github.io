@@ -107,7 +107,7 @@ h2 {
 .icons {
     text-align: center;
     position: relative;
-    bottom: 150px;
+    bottom: -150px;
     font-weight: bold;
     width: 100%;
     padding: 50px;
