@@ -107,7 +107,7 @@ h2 {
 .icons {
     text-align: center;
     position: relative;
-    bottom: 100px;
+    bottom: 150px;
     font-weight: bold;
     width: 100%;
     padding: 50px;
@@ -118,9 +118,9 @@ h2 {
 
 
 @media screen and (max-width:1080px) and (min-width: 980px){
- nav{
+ /*nav{
    font-size: 18px;
- }
+ }*/
  /*footer{
    position: relative;
    text-align: center;
@@ -169,9 +169,7 @@ h2 {
   	 top:.25em;
   	 right:.5em;
    }
-   /*.kasey{
-     width: 600px;
-   }*/
+
  }
 
 /*footer {
