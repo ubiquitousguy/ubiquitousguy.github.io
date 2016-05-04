@@ -78,25 +78,31 @@ a:hover {
 }
 
 @media screen and (max-width:1080px) and (min-width: 980px){
-  footer{
-    position: relative;
+  .Contents{
+    width: 600px;
   }
+
+
 }
 
 @media screen and (max-width:980px) and (min-width: 768px){
-  footer{
+
+  .Contents{
+    float: left;
     position: relative;
+    width: 450px;
   }
 }
 
 @media screen and (max-width: 768px){
-  footer{
+
+  .Contents{
+    float: left;
     position: relative;
+    width: 250px;
   }
 }
 
 @media screen and (max-width: 480px){
-  footer{
-    position: relative;
-  }
+
 }

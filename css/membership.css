@@ -101,3 +101,44 @@ form {
 
 
 }
+
+@media screen and (max-width:1080px) and (min-width: 980px){
+
+}
+
+@media screen and (max-width:980px) and (min-width: 768px){
+   #page-header nav li{
+    float: none;
+   }
+
+   #page-header nav li:first-child{
+    display:block;
+    position: relative;
+    top:.25em;
+    right:.5em;
+   }
+ }
+
+ @media screen and (max-width: 768px) {
+ 	#page-header nav li{
+ 	 float: none;
+  }
+  #page-header nav li:first-child{
+ 	 display:block;
+ 	 position: relative;
+ 	 top:.25em;
+ 	 right:.5em;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #page-header nav li{
+   float: none;
+ }
+ #page-header nav li:first-child{
+   display:block;
+   position: relative;
+   top:.25em;
+   right:.5em;
+ }
+}
