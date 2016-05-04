@@ -121,8 +121,8 @@ h2 {
   .kasey{
     position: relative;
     display: block;
-    top: .25em;
-    right: .5em;
+    /*top: .25em;
+    right: .5em;*/
   }
 }
 
@@ -137,6 +137,10 @@ h2 {
   top:.25em;
   right:.5em;
  }
+ .kasey{
+   position: relative;
+   display: block;
+ }
 
 }
 @media screen and (max-width: 768px) {
@@ -148,6 +152,10 @@ h2 {
 	 position: relative;
 	 top:.25em;
 	 right:.5em;
+ }
+ .kasey{
+   position: relative;
+   display: block;
  }
 
 
@@ -161,6 +169,10 @@ h2 {
   	 position: relative;
   	 top:.25em;
   	 right:.5em;
+   }
+   .kasey{
+     position: relative;
+     display: block;
    }
 
  }
